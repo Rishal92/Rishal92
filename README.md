@@ -1,4 +1,5 @@
 
+
 # Rishal Vallabh
 
 Hi, I'm Rishal 👋 - a software developer🧑🏻‍💻 at Hollard Insurance🏢 working on their Integrations Dev Team. I previously worked on their Sales Frontend Dev Team developing their web apps and xamarin mobile apps. 
@@ -16,8 +17,5 @@ I aspire to be a developer that helps upskill and build high performing teams.
 
 
 <p align="center">
-  <br/>
-  <img  src="https://img.icons8.com/cute-clipart/60/000000/twitter.png"/>
-  <br/>
-  <a href="https://twitter.com/Rishal92?ref_src=twsrc%5Etfw">Tweet @Rishal92</a> OR <a href="https://Rishal92.com">Visit my Site</a>
+  <a href="https://twitter.com/Rishal92?ref_src=twsrc%5Etfw">Tweet Me</a> OR <a href="https://Rishal92.com">Visit my Site</a>
 </p>
