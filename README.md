@@ -13,7 +13,7 @@ I aspire to be a Lead Developer that helps upskill and build high performing tea
 - 👯 I’m looking to **collaborate** on PWA's or Web API's.
 - 🤔 I’m **looking for help with** growing my skillset into that of a solution architect.
 - 💬 **Ask me about** building high performing agile teams.
-- 📫 How to **reach me**: Twitter [@Rishal92](https://twitter.com/rishal92?lang=en)
+- 📫 How to **reach me**: Twitter [@RishalCodes](https://twitter.com/RishalCodes?lang=en)
 - ⚡ **Fun fact**: I enjoy hiking.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishal92&show_icons=true)
