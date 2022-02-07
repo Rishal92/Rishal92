@@ -7,11 +7,11 @@ I aspire to be a developer that helps upskill and build high performing teams.
 
 ![Profile views](https://gpvc.arturio.dev/Rishal92)  
 
--  🔭 I’m **currently working on** creating an online protifolio on GitHub.
-- 🌱 I’m **currently learning** how to write .Net Core 3 Web API's.
-- 👯 I’m looking to **collaborate** on Xamarin Mobile Apps, PWA's or Web API's.
-- 🤔 I’m **looking for help with** building on online presence as a software developer.
-- 💬 **Ask me about** running a team using the agile methodology.
+- 🔭 I’m **currently working on** creating an online portfolio on GitHub.
+- 🌱 I’m **currently learning** how to write .Net Core 6 Web API's and master Azure Application Insights Telemetry.
+- 👯 I’m looking to **collaborate** on PWA's or Web API's.
+- 🤔 I’m **looking for help with** growing my skillset into that of a solution architect.
+- 💬 **Ask me about** building high performing agile teams.
 - 📫 How to **reach me**: Twitter [@Rishal92](https://twitter.com/rishal92?lang=en)
 - ⚡ **Fun fact**: I enjoy hiking.
 
