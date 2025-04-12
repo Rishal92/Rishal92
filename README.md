@@ -6,7 +6,7 @@ I previously worked on their Sales Frontend Dev Team developing their web apps a
 I enjoy leading teams who run using the agile methodology. I am a Certified Scrum Master and Azure Developer Associate.
 I aspire to be a Lead Developer that helps upskill and build high performing teams.
 
-![Profile views](https://gpvc.arturio.dev/Rishal92)  
+![](https://komarev.com/ghpvc/?username=Rishal92)
 
 - 🔭 I’m **currently working on** creating an online portfolio on GitHub.
 - 🌱 I’m **currently learning** how to write .Net Core 6 Web API's and master Azure Application Insights Telemetry.
