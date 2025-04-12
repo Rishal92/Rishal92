@@ -16,8 +16,8 @@ I aspire to be a Lead Developer that helps upskill and build high performing tea
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishal92&show_icons=true)
 
+![](https://komarev.com/ghpvc/?username=Rishal92)
+
 <p align="center">
   <a href="https://twitter.com/Rishal92?ref_src=twsrc%5Etfw">Tweet Me</a> OR <a href="https://Rishal92.com">Visit my Site</a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=Rishal92)
