@@ -12,7 +12,6 @@ If it compiles, we celebrate. If it doesn’t… more coffee.
 - 👯 I’m looking to **collaborate** on PWA's or Web API's.
 - 🤔 I’m **looking for help with** finding tiny cool ideas to learn advance coding concepts.
 - 💬 **Ask me about** building high performing agile teams.
-- 📫 How to **reach me**: Twitter [@RishalCodes](https://twitter.com/RishalCodes?lang=en)
 - ⚡ **Fun fact**: I enjoy minecraft.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishal92&show_icons=true)
